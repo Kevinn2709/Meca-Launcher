@@ -1,0 +1,126 @@
+{
+  "formatVersion": 1,
+  "name": "Meca",
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "forge": {
+    "version": "47.4.10",
+    "installerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
+    "installerSha1": "66bfea9963bfa60d88bab6b2750e74a958392715"
+  },
+  "server": {
+    "address": "177.245.193.121",
+    "port": 25565,
+    "lanAddress": "192.168.100.73"
+  },
+  "managedFolders": [
+    "mods"
+  ],
+  "files": [
+    {
+      "path": "mods/Chunky-1.3.146.jar",
+      "size": 341451,
+      "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
+      "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
+      "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "size": 398066,
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "sha512": "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "size": 1320675,
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "size": 1515076,
+      "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+      "sha512": "be5be53897ae7403a202e4b0b094701bcc4ecdb94afcf2ea144cd07d9a4553a1fc6a88917732a72c477d01c33583162cffb9c4a19d259089deb018878eec1da8",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "size": 123034,
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "path": "mods/Incendium_1.20.x_v5.3.5.jar",
+      "size": 4638945,
+      "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+      "sha512": "04944dcbf3aa7ee8ea8785549e00f74a417ca17aa5760593e39090733ab0a9e38ebce078e4f5af544030759a5459c371003601ff5a7feebbc09765f8c712bb25",
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.62.0.219.jar",
+      "size": 2232177,
+      "sha1": "e514cd6bc50b816487d9c25cd457de5e0bd5b07f",
+      "sha512": "572918aad9d26b3308e99ba83b154644b15818519e1f8206e9a22022ff0888c62b4d8016edf806e96f238e839e41a45a4eaa9868d45ae4514bf8f91164533c68",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uyTkeINn/jei-1.20.1-forge-15.62.0.219.jar"
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.31.jar",
+      "size": 73916104,
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f",
+      "sha512": "0dccedd79e3e555f5a38075612d91aec23e1f6ca674e7637ea88c669095b44554385abb75826dfa5a0170585c6b3c3b6d9465bed049c0186d80f75d88f45c5e8",
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/C3H0azzB/L_Enders_Cataclysm-3.31.jar"
+    },
+    {
+      "path": "mods/lionfishapi-3.0.jar",
+      "size": 101931,
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9",
+      "sha512": "a7cf6c9bf27a77b45efe434a166f9c99efdb6db14e5d88ce8417c6364aea9d250a9f43627e9e0ac162e106517fccf51cebb5035852c8449fb7fb299a083770c4",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/CPftDBcY/lionfishapi-3.0.jar"
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.87+mc1.20.1.jar",
+      "size": 1009643,
+      "sha1": "40c9b0aa7ca061d9d2c75f3eba3941f59483a3aa",
+      "sha512": "28391f8bb4c7554d57d6ec7ae0b3e60a0af18e29b5e2f850d70e61b4fc22be632f04b149b6749164470e9dc168aaca9df776737e441bfe3acaa1ea23c2e800ea",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/lbZjFq4Z/modernfix-forge-5.27.87%2Bmc1.20.1.jar"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.26.9.2194.jar",
+      "size": 1215727,
+      "sha1": "315a8151c0e89c71ae165e33bcfcfccc762a1766",
+      "sha512": "6d78f290fd4acb5e856da8e7f105d626fbb8d416439b2676f89f4239b56f3c146c1bd9df2a2119a07df24904bc4a598eeb8c17389424f75d18845564f01b9c98",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/nSVHlIzZ/sophisticatedbackpacks-1.20.1-3.26.9.2194.jar"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.5.6.2378.jar",
+      "size": 1758791,
+      "sha1": "6b43a36241c8f9ad777efd83a7ea2268af23230a",
+      "sha512": "6a2246e61f0180368bb93ce0992209bef887f37b640a0ddec771b00b0dcdbc299ae0399675163a8f75297f7e6205d8bed8bb12e76ed5bbbd9c5c0eda3805bf1a",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/yIBA2SnN/sophisticatedcore-1.20.1-1.5.6.2378.jar"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.22.jar",
+      "size": 4923439,
+      "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
+      "sha512": "23c8b3a593fe506af8d8e0edc0afb45349777d5cdea41ffc3fa99afc2e3b9bc7770bb9951f674017ea5b3c23e111b0c6031ebd61820c9a0b5191e3992d9c8798",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/S11m0QIb/voicechat-forge-1.20.1-2.6.22.jar"
+    },
+    {
+      "path": "mods/xaerominimap-forge-1.20.1-26.6.0.jar",
+      "size": 2196194,
+      "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa",
+      "sha512": "9c566a2b9537c37b438a38a060cc251187e6643e96522466c50c90c7fa747a4e4edc3a5fff0f31fb042e1eeefd047df2a57d1bbe6a3d741837cef8cdb6426a25",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dB6E0CY9/xaerominimap-forge-1.20.1-26.6.0.jar"
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "size": 1429424,
+      "sha1": "6715c1d3758a3805589d82c41dc581537fe185cd",
+      "sha512": "a8c775ad1645cd3dc922072955fff65f7874bd6a1c99e6a61d370e7a9a5880e450ba61dafa6c719ad8f719fcff3b17ec6124b7f47288009547b4b136d81e5657",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KtEupJvB/xaeroworldmap-forge-1.20.1-1.47.0.jar"
+    }
+  ]
+}
