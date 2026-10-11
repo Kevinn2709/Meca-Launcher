@@ -8,11 +8,11 @@
     "installerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-installer.jar",
     "installerSha1": "66bfea9963bfa60d88bab6b2750e74a958392715"
   },
-  "server": {
-    "address": "177.245.193.121",
-    "port": 25565,
-    "lanAddress": "192.168.100.73"
-  },
+    "server": {
+     "address": "cairo-iowa.tun.ply.gg",
+     "port": 23605,
+     "lanAddress": "192.168.100.73"
+   },
   "managedFolders": [
     "mods"
   ],
