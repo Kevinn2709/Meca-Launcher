@@ -8,8 +8,9 @@ player's modpack identical to the server's and then starts the game.
 
 It is free, shows no ads and is not sold or monetised in any way.
 
-This repository holds the modpack list (`manifest.json`) that the launcher
-reads. It contains **no game files and no mod files**.
+This repository holds the launcher's source code and the modpack list
+(`manifest.json`) that the launcher reads. It contains **no game files and no
+mod files**.
 
 ## What the launcher does
 
@@ -48,6 +49,25 @@ Azure application (client) ID: `020af44f-9252-4229-9178-04253249cdb6`
 
 Every player downloads these files directly from those sources. Nothing is
 re-hosted, modified or redistributed by this project.
+
+## Source code
+
+| Folder | What it contains |
+| --- | --- |
+| `src/` | The interface (Next.js and Tailwind CSS) |
+| `src-tauri/src/auth/` | Microsoft sign-in, Xbox Live, XSTS, Minecraft Services and the ownership check (`minecraft.rs`) |
+| `src-tauri/src/game/` | Downloads with hash verification, Forge install, mod sync and game launch |
+| `manifest.json` | The modpack list: one entry per mod with its size, hash and official download address |
+
+To build it: Windows 10 or 11, Node.js 20 or newer, Rust (stable) and the
+Visual Studio C++ build tools. Then:
+
+```
+npm install
+npm run tauri dev
+```
+
+The background image used in private builds is not part of this repository.
 
 ## Privacy
 
