@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "Meca",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minecraft": "1.20.1",
   "forge": {
     "version": "47.4.10",
@@ -9,9 +9,9 @@
     "installerSha1": "66bfea9963bfa60d88bab6b2750e74a958392715"
   },
   "server": {
-    "address": "177.245.193.121",
-    "port": 25565,
-    "lanAddress": "192.168.100.73"
+    "address": "cairo-iowa.tun.ply.gg",
+    "port": 23605,
+    "lanAddress": "26.20.228.235"
   },
   "managedFolders": [
     "mods"
@@ -23,6 +23,13 @@
       "sha1": "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50",
       "sha512": "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9",
       "url": "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
+    },
+    {
+      "path": "mods/Cobblemon-forge-1.5.2+1.20.1.jar",
+      "size": 104105045,
+      "sha1": "02601f79f0c442b75463538da7a3c7f260fda42e",
+      "sha512": "e92b572b08d425c95c90a71375500bf555cfe709d7d38d57248e34bb37d04ceb6cf7c3a2ba301c182b9c7541491a2e7141987ae8ebf843f78c77c8dc9271d6f4",
+      "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/vm5zUZAg/Cobblemon-forge-1.5.2%2B1.20.1.jar"
     },
     {
       "path": "mods/curios-forge-5.14.1+1.20.1.jar",
@@ -65,6 +72,13 @@
       "sha1": "e514cd6bc50b816487d9c25cd457de5e0bd5b07f",
       "sha512": "572918aad9d26b3308e99ba83b154644b15818519e1f8206e9a22022ff0888c62b4d8016edf806e96f238e839e41a45a4eaa9868d45ae4514bf8f91164533c68",
       "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/uyTkeINn/jei-1.20.1-forge-15.62.0.219.jar"
+    },
+    {
+      "path": "mods/kotlinforforge-4.11.0-all.jar",
+      "size": 7193768,
+      "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+      "sha512": "d72707078f0c4fde78981c638ca976722f22a64ce74bdb489258790fe9886d763a7b1e0dfbc5429ddd3105d8a65d177f06242dfb1457e219e56c70dd3e8cbf2c",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar"
     },
     {
       "path": "mods/L_Enders_Cataclysm-3.31.jar",
